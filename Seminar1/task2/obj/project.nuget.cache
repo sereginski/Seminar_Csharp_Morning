@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sfvvhAEQaQ8G8muiWzMeBMaPICpqfHQoFhjkQib/9kx7hLIfqC5wLpoaKDG8hGniZrTi0H+TwKp25ZMYsNNlVg==",
+  "dgSpecHash": "KdSY9L55UjB/tZWYv0mTCwPIigbaf/1Ijg4aTvypvkR9aLEWT1DrKzliFTvtZPy3ntDuubfqJMkhHctp9tqv6w==",
   "success": true,
-  "projectFilePath": "C:\\Seminar_C#_Morning\\task2\\task2.csproj",
+  "projectFilePath": "C:\\Seminar_C#_Morning\\Seminar1\\task2\\task2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

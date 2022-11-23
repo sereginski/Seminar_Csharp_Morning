@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Seminar_C#_Morning\\task2\\task2.csproj",
+      "projectUniqueName": "C:\\Seminar_C#_Morning\\Seminar1\\task2\\task2.csproj",
       "projectName": "task2",
-      "projectPath": "C:\\Seminar_C#_Morning\\task2\\task2.csproj",
+      "projectPath": "C:\\Seminar_C#_Morning\\Seminar1\\task2\\task2.csproj",
       "packagesPath": "C:\\Users\\yurin\\.nuget\\packages\\",
-      "outputPath": "C:\\Seminar_C#_Morning\\task2\\obj\\",
+      "outputPath": "C:\\Seminar_C#_Morning\\Seminar1\\task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yurin\\AppData\\Roaming\\NuGet\\NuGet.Config"
