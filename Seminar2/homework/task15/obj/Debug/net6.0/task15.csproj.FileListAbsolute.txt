@@ -1,0 +1,15 @@
+C:\Seminar_C#_Morning\Seminar2\homework\task15\obj\Debug\net6.0\task15.csproj.AssemblyReference.cache
+C:\Seminar_C#_Morning\Seminar2\homework\task15\obj\Debug\net6.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Seminar_C#_Morning\Seminar2\homework\task15\obj\Debug\net6.0\task15.AssemblyInfoInputs.cache
+C:\Seminar_C#_Morning\Seminar2\homework\task15\obj\Debug\net6.0\task15.AssemblyInfo.cs
+C:\Seminar_C#_Morning\Seminar2\homework\task15\obj\Debug\net6.0\task15.csproj.CoreCompileInputs.cache
+C:\Seminar_C#_Morning\Seminar2\homework\task15\bin\Debug\net6.0\task15.exe
+C:\Seminar_C#_Morning\Seminar2\homework\task15\bin\Debug\net6.0\task15.deps.json
+C:\Seminar_C#_Morning\Seminar2\homework\task15\bin\Debug\net6.0\task15.runtimeconfig.json
+C:\Seminar_C#_Morning\Seminar2\homework\task15\bin\Debug\net6.0\task15.dll
+C:\Seminar_C#_Morning\Seminar2\homework\task15\bin\Debug\net6.0\task15.pdb
+C:\Seminar_C#_Morning\Seminar2\homework\task15\obj\Debug\net6.0\task15.dll
+C:\Seminar_C#_Morning\Seminar2\homework\task15\obj\Debug\net6.0\refint\task15.dll
+C:\Seminar_C#_Morning\Seminar2\homework\task15\obj\Debug\net6.0\task15.pdb
+C:\Seminar_C#_Morning\Seminar2\homework\task15\obj\Debug\net6.0\task15.genruntimeconfig.cache
+C:\Seminar_C#_Morning\Seminar2\homework\task15\obj\Debug\net6.0\ref\task15.dll
