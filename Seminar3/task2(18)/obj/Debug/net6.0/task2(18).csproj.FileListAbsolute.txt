@@ -1,0 +1,15 @@
+C:\Seminar_C#_Morning\Seminar3\task2(18)\bin\Debug\net6.0\task2(18).exe
+C:\Seminar_C#_Morning\Seminar3\task2(18)\bin\Debug\net6.0\task2(18).deps.json
+C:\Seminar_C#_Morning\Seminar3\task2(18)\bin\Debug\net6.0\task2(18).runtimeconfig.json
+C:\Seminar_C#_Morning\Seminar3\task2(18)\bin\Debug\net6.0\task2(18).dll
+C:\Seminar_C#_Morning\Seminar3\task2(18)\bin\Debug\net6.0\task2(18).pdb
+C:\Seminar_C#_Morning\Seminar3\task2(18)\obj\Debug\net6.0\task2(18).csproj.AssemblyReference.cache
+C:\Seminar_C#_Morning\Seminar3\task2(18)\obj\Debug\net6.0\task2(18).GeneratedMSBuildEditorConfig.editorconfig
+C:\Seminar_C#_Morning\Seminar3\task2(18)\obj\Debug\net6.0\task2(18).AssemblyInfoInputs.cache
+C:\Seminar_C#_Morning\Seminar3\task2(18)\obj\Debug\net6.0\task2(18).AssemblyInfo.cs
+C:\Seminar_C#_Morning\Seminar3\task2(18)\obj\Debug\net6.0\task2(18).csproj.CoreCompileInputs.cache
+C:\Seminar_C#_Morning\Seminar3\task2(18)\obj\Debug\net6.0\task2(18).dll
+C:\Seminar_C#_Morning\Seminar3\task2(18)\obj\Debug\net6.0\refint\task2(18).dll
+C:\Seminar_C#_Morning\Seminar3\task2(18)\obj\Debug\net6.0\task2(18).pdb
+C:\Seminar_C#_Morning\Seminar3\task2(18)\obj\Debug\net6.0\task2(18).genruntimeconfig.cache
+C:\Seminar_C#_Morning\Seminar3\task2(18)\obj\Debug\net6.0\ref\task2(18).dll
