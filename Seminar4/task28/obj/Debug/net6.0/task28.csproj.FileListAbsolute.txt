@@ -1,0 +1,15 @@
+C:\Seminar_C#_Morning\Seminar4\task28\bin\Debug\net6.0\task28.exe
+C:\Seminar_C#_Morning\Seminar4\task28\bin\Debug\net6.0\task28.deps.json
+C:\Seminar_C#_Morning\Seminar4\task28\bin\Debug\net6.0\task28.runtimeconfig.json
+C:\Seminar_C#_Morning\Seminar4\task28\bin\Debug\net6.0\task28.dll
+C:\Seminar_C#_Morning\Seminar4\task28\bin\Debug\net6.0\task28.pdb
+C:\Seminar_C#_Morning\Seminar4\task28\obj\Debug\net6.0\task28.csproj.AssemblyReference.cache
+C:\Seminar_C#_Morning\Seminar4\task28\obj\Debug\net6.0\task28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Seminar_C#_Morning\Seminar4\task28\obj\Debug\net6.0\task28.AssemblyInfoInputs.cache
+C:\Seminar_C#_Morning\Seminar4\task28\obj\Debug\net6.0\task28.AssemblyInfo.cs
+C:\Seminar_C#_Morning\Seminar4\task28\obj\Debug\net6.0\task28.csproj.CoreCompileInputs.cache
+C:\Seminar_C#_Morning\Seminar4\task28\obj\Debug\net6.0\task28.dll
+C:\Seminar_C#_Morning\Seminar4\task28\obj\Debug\net6.0\refint\task28.dll
+C:\Seminar_C#_Morning\Seminar4\task28\obj\Debug\net6.0\task28.pdb
+C:\Seminar_C#_Morning\Seminar4\task28\obj\Debug\net6.0\task28.genruntimeconfig.cache
+C:\Seminar_C#_Morning\Seminar4\task28\obj\Debug\net6.0\ref\task28.dll
