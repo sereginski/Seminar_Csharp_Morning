@@ -1,0 +1,15 @@
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\bin\Debug\net6.0\hm_task34.exe
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\bin\Debug\net6.0\hm_task34.deps.json
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\bin\Debug\net6.0\hm_task34.runtimeconfig.json
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\bin\Debug\net6.0\hm_task34.dll
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\bin\Debug\net6.0\hm_task34.pdb
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\obj\Debug\net6.0\hm_task34.csproj.AssemblyReference.cache
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\obj\Debug\net6.0\hm_task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\obj\Debug\net6.0\hm_task34.AssemblyInfoInputs.cache
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\obj\Debug\net6.0\hm_task34.AssemblyInfo.cs
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\obj\Debug\net6.0\hm_task34.csproj.CoreCompileInputs.cache
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\obj\Debug\net6.0\hm_task34.dll
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\obj\Debug\net6.0\refint\hm_task34.dll
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\obj\Debug\net6.0\hm_task34.pdb
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\obj\Debug\net6.0\hm_task34.genruntimeconfig.cache
+C:\Seminar_C#_Morning\seminar5\homework\hm_task34\obj\Debug\net6.0\ref\hm_task34.dll
