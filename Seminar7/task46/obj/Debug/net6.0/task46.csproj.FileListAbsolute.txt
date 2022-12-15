@@ -1,0 +1,15 @@
+C:\Seminar_C#_Morning\Seminar7\task46\bin\Debug\net6.0\task46.exe
+C:\Seminar_C#_Morning\Seminar7\task46\bin\Debug\net6.0\task46.deps.json
+C:\Seminar_C#_Morning\Seminar7\task46\bin\Debug\net6.0\task46.runtimeconfig.json
+C:\Seminar_C#_Morning\Seminar7\task46\bin\Debug\net6.0\task46.dll
+C:\Seminar_C#_Morning\Seminar7\task46\bin\Debug\net6.0\task46.pdb
+C:\Seminar_C#_Morning\Seminar7\task46\obj\Debug\net6.0\task46.csproj.AssemblyReference.cache
+C:\Seminar_C#_Morning\Seminar7\task46\obj\Debug\net6.0\task46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Seminar_C#_Morning\Seminar7\task46\obj\Debug\net6.0\task46.AssemblyInfoInputs.cache
+C:\Seminar_C#_Morning\Seminar7\task46\obj\Debug\net6.0\task46.AssemblyInfo.cs
+C:\Seminar_C#_Morning\Seminar7\task46\obj\Debug\net6.0\task46.csproj.CoreCompileInputs.cache
+C:\Seminar_C#_Morning\Seminar7\task46\obj\Debug\net6.0\task46.dll
+C:\Seminar_C#_Morning\Seminar7\task46\obj\Debug\net6.0\refint\task46.dll
+C:\Seminar_C#_Morning\Seminar7\task46\obj\Debug\net6.0\task46.pdb
+C:\Seminar_C#_Morning\Seminar7\task46\obj\Debug\net6.0\task46.genruntimeconfig.cache
+C:\Seminar_C#_Morning\Seminar7\task46\obj\Debug\net6.0\ref\task46.dll
